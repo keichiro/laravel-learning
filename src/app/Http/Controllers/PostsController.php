@@ -7,6 +7,7 @@ use App\Http\Requests;
 use App\Models\Post;
 use Log;
 use Auth;
+use App\User;
 
 class PostsController extends Controller
 {
